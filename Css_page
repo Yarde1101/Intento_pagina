@@ -1,1 +1,85 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+background-color:rgb(77, 57 , 189) ;
+}
+header{
+
+
+background-color:rgb(77, 57, 189) ;
+display: flex;
+gap: 20px;
+justify-content: space-between;
+align-items: center;
+
+}
+
+.gif{
+display: flex;
+justify-content: center;
+align-items: center;
+
+background-image:url(Recusrsos_pagina/fireplace-darksouls.gif) ;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+height: 400px;
+width: 100%;
+}
+h1{
+    color: darkorange;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0.71);
+}
+
+
+a{
+ 
+    color: darkorange; /* color en los vinculos, andes de presionarlos */
+    text-decoration: none;
+    margin: 0 15px;
+   
+}
+
+nav a:hover{
+    color: white;
+}
+
+
+.Logo{
+width: 50px;
+display: flex;
+justify-content: space-between;
+background-color: darkorange;
+
+}
+
+.texto_encima{
+top: 15%;
+left: 50%;
+transform: translate(-50, -50%);  
+color: darkorange;
+font-size: 24px;
+font-weight: bold;
+text-shadow: 2px 2px 2px rgb(0, 0, 0.71);
+max-width: 600px;
+}
+.contenedor {
+    display: flex;
+    gap: 20px;
+    justify-content:space-between
+}
+
+aside {
+    width: 30%;
+}
+
+.lado-derecho {
+    width: 70%;
+}
+
+
 
