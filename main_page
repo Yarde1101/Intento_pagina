@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hablemos de Filosofia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <img src="Recusrsos_pagina/flame.png" alt="llama_Filosofia"class="Logo">
+         <h1>Hablemos de Filosofia</h1>
+        <nav>
+            <a href="https://www.pensador.com/es/frases_filosoficas_que_te_haran_abrir_la_mente_y_reflexionar/">Frases Destacadas</a>
+            <a href="https://psicologiaymente.com/cultura/filosofos-mas-famosos-importantes">Autores</a>
+            <a href="https://humanidades.com/historia-de-la-filosofia/">Epocas </a>
+        </nav>
+    </header>
+    <main>
+    <div class="gif">
+   <div class="texto_encima"><h1> Hablemos de Filosofia</h1>
+    <p>Bienvenidos a hablemos de filosofia, un espacio dedicado al pensamiento y la reflexion, donde la llamda de la curiosidad sera avivada y el conocimiento enaltecido.</p>
+   </div>
 
+
+   <section class="contenedor">
+     <aside class="lado-izquierdo">
+                <h2>Que es la filsofia?</h2>
+                <p>Texto descriptivo...</p>
+                
+
+                <h2>Otro título</h2>
+                <p>Más texto...</p>
+            </aside>
+
+</main>
+</body>
+</html>
